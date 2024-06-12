@@ -1,7 +1,6 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import { ActivityIndicator, StyleSheet, Text, View } from "react-native";
-import { ScrollView, TextInput } from "react-native-gesture-handler";
+import { ActivityIndicator, ScrollView, StyleSheet, Text, TextInput, View } from "react-native";
 import {
   heightPercentageToDP as heightToDp,
   widthPercentageToDP as widthToDp,
